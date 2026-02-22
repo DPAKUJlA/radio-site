@@ -1,5 +1,5 @@
 body {
-	 background: url(mal4.jpg) no-repeat; 
+	 background: url(mal3.jpg) no-repeat; 
 	 background-attachment: fixed;
 	 background-size: 100% 100%;
 }
@@ -26,4 +26,5 @@ img {
 .image:hover {
 	transform: scale(1.2);
 	cursor: pointer;
+
 }
