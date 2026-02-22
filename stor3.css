@@ -1,0 +1,13 @@
+body {
+	 background: url(mal1_1.jpg) no-repeat; 
+	 background-attachment: fixed;
+	 background-size: 100% 100%;
+}
+P {font-size:20pt; color:#000000; font-family:"Times New Roman"}
+
+
+
+.image:hover {
+	transform: scale(1.2);
+	cursor: pointer;
+}
